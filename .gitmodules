@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "latent2likert"]
+	path = latent2likert
+	url = https://github.com/markolalovic/latent2likert
